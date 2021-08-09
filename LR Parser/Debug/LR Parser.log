@@ -1,0 +1,3 @@
+﻿  parser.c
+c:\users\진빈\source\repos\lr parser\lr parser\parser.c(31): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  LR Parser.vcxproj -> C:\Users\진빈\source\repos\LR Parser\Debug\LR Parser.exe
